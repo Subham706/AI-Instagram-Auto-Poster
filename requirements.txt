@@ -6,3 +6,5 @@ torchaudio
 moviepy
 Pillow
 protobuf==3.20.3
+pip==25.2
+python==3.10
