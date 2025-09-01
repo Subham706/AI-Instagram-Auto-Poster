@@ -23,7 +23,7 @@ import torchaudio
 from moviepy.editor import ImageClip, concatenate_videoclips, AudioFileClip
 
 # ---------- Config ----------
-API_KEY = "AIzaSyAHm3Q0M-Rnij6Tiac3-ZcNDRThqxuSHT4"  # replace with your API key
+API_KEY = ""  # replace with your API key
 FFMPEG_BIN = "ffmpeg"
 client = genai.Client(api_key=API_KEY)
 
