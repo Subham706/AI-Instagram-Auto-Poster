@@ -21,7 +21,7 @@ from audiocraft.models import MusicGen
 import torchaudio
 
 # ---------- Config ----------
-API_KEY = "AIzaSyAHm3Q0M-Rnij6Tiac3-ZcNDRThqxuSHT4"
+API_KEY = ""
 FFMPEG_BIN = "ffmpeg"
 client = genai.Client(api_key=API_KEY)
 
